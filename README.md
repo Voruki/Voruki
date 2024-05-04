@@ -12,7 +12,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:yongming113@gmail.com">
+  <a href="mailto:vorkyngoh@protonmail.com">
     <img src="./Icon_Logos/Proton_Mail.png" width="75" height="75" />
   </a>
   <a href="https://linkedin.com/in/ngohyongming" target="_blank">
