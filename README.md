@@ -48,19 +48,22 @@
 </div>
 <hr/>
 
-<h2 align="center">🎐 𝚂𝚝𝚊𝚝𝚜 🐳</h2>
-<br>
-<div align=center>
-  <img width=400 src="https://streak-stats.demolab.com?user=Voruki&theme=tokyonight&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=437" alt="GitHub Streak"/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Voruki&show_icons=true&theme=tokyonight&border_radius=15&card_width=400&rank_icon=github" />
-  <br/>
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voruki&size_weight=1&count_weight=1&layout=compact&theme=tokyonight&border_radius=15&card_width=400&card_width=400" />
-</div>
-<hr/>
-
 <h2 align="center">🏙️ 𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 🌆</h2>
 <br>
 <div align=center>
+  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=Voruki&repo=21_OOP_Python_Projects&theme=tokyonight&border_radius=15&card_width=400" />
   <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=Voruki&repo=CS50P_Vorky&theme=tokyonight&border_radius=15&card_width=400" />
+
+</div>
+<hr/>
+
+<h2 align="center">🎐 𝚂𝚝𝚊𝚝𝚜 🐳</h2>
+<br>
+<div align=center>
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voruki&size_weight=1&count_weight=1&layout=compact&theme=tokyonight&border_radius=15&card_width=400&card_width=400" />
+<br/>
+  <img width=400 src="https://streak-stats.demolab.com?user=Voruki&theme=tokyonight&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=437" alt="GitHub Streak"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Voruki&show_icons=true&theme=tokyonight&border_radius=15&card_width=400&rank_icon=github" />
+
 </div>
 <hr/>
