@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+There!+🫧;+I'm+Vorky+Ngoh!;" />
 </h1>
 
-<h2 align="center">👾  𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 & 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝚍𝚎𝚜𝚒𝚐𝚗 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 𝙼𝚊𝚕𝚊𝚢𝚜𝚒𝚊 🇲🇾  🐦‍⬛</h3>
+<h2 align="center">👾  𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 & 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝚍𝚎𝚜𝚒𝚐𝚗 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 𝚏𝚛𝚘𝚖 𝙼𝚊𝚕𝚊𝚢𝚜𝚒𝚊 🇲🇾  🐦‍⬛</h3>
 
 <h4 align="center">
  
